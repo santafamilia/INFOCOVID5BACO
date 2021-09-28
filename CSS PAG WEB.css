@@ -1,0 +1,95 @@
+<style type="text/css">
+    body {
+        background-image: url(https://image.freepik.com/foto-gratis/empresario-apuntando-su-presentacion-pantalla-digital-futurista_53876-102617.jpg);
+        background-size: 1920px 1080px;
+        color: rgb(0, 0, 0)
+        
+    }
+    #seccion1 {
+        font-size: 40px;
+        text-align: center;
+        color: white;
+        background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Win3x_Black_Screen_of_Death.gif/320px-Win3x_Black_Screen_of_Death.gif);
+        background-size: cover;
+        
+    }
+    .proyecto {
+        font-size: 30px;
+        text-align:justify;
+        display: grid;
+        grid-template-columns: auto;
+        background-image: url();
+        background-size: cover;
+    }
+    .proyecto img{
+        width: 300px;
+
+    } 
+    #seccion2 {
+        font-size: 10px;
+        text-align:  justify;
+        background-image: url();
+        background-size: contain;
+        
+    } 
+    #seccion02 {
+        width: 950px;
+        image-resolution: 950px;
+        
+
+    } 
+    #seccion3 {
+        font-size: 30px;
+        text-align:  justify;
+        background-image: url();
+        background-size: ;
+
+
+    }
+    .seccion3 img{
+        width: 400px;
+
+    }
+    #seccion03 {
+        font-size: 30px;
+        text-align: ;
+        background-image: url();
+        background-size: ;
+    }
+    .seccion03 img{
+        width: 900px;
+    }
+    #seccion4 {
+        font-size: 30px;
+        text-align:  justify;
+        background-image: url();
+        background-size: contain;
+    }
+    #seccion5 {
+        font-size: 30px;
+        text-align:  justify;
+        background-image: url();
+        background-size: contain;
+    }
+
+    .seccion5 img{
+        width:550px;
+
+    }  
+    #seccion6 {
+        font-size: 30px;
+        text-align: justify;
+    }
+    .seccion6 img{
+        width:550px;
+
+    } 
+    #seccion7 {
+        font-size: 30px;
+        text-align: center;
+        color: white;
+        background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Win3x_Black_Screen_of_Death.gif/320px-Win3x_Black_Screen_of_Death.gif);
+        background-size: cover;
+        
+    }
+     </style>
